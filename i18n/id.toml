@@ -1,0 +1,23 @@
+[readmore]
+other = "Selanjutnya"
+
+[translations]
+other="Terjemahan"
+
+[error404]
+other = "Ups... Halaman yang kamu akses tidak tersedia."
+
+[yourname]
+other = "Nama"
+
+[youremail]
+other = "Email"
+
+[subject]
+other = "Subjek"
+
+[yourmessage]
+other = "Pesanmu"
+
+[sendnow]
+other = "Kirim sekarang"
