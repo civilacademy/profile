@@ -1,4 +1,4 @@
-baseURL = "http://civilacademy.netlify.com/"
+baseURL = "http://civilacademy.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
