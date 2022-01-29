@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Kickstart your career in <br> building modelling"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Learn directly from experienced industry practitioners to fast-track your civil engineering career with Civil Academy Indonesia. <br> Open up new career paths in the construction industry with our career support and apprenticeship programs, no matter your background."
   button:
     enable : true
     label : "Contact Us"
@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Why Join Civil Academy"
   feature_item:
     # feature item loop
     - name : "Clean Code"
